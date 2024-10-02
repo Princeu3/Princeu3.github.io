@@ -1,20 +1,29 @@
-# Data Scientist
+# Prince U. - Data Scientist
 
-###Programming Languages: Python, SQL, R, Java, PowerShell
+Welcome to my GitHub.io page! Below you'll find a summary of my skills, education, and work experience.
 
-###Data Science & ML Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV
+## Skills
 
-###Visualization Tools: Matplotlib, Seaborn, Tableau
+### Programming Languages
+- **Python, SQL, R, Java, PowerShell**
+### Data Science & ML Frameworks
+- **TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV**
+### Visualization Tools
+- **Matplotlib, Seaborn, Tableau**
+### Cloud & Analytics Platforms
+- **AWS, Azure ML, Google Cloud Platform, Vertex AI, LangChain**
+### Certifications
+- BCG Data Scientist Intern (Forage)
+- Machine Learning A-Z (Udemy)
+- Supervised ML (Coursera)
+- Tableau (DataCamp)
+- Oracle Professional in Generative AI
+### Professional Development
+- AWS ML and AI Scholar
+- Open Data Science Conference Participant
 
-###Cloud & Analytics Platforms: AWS, Azure ML, Google Cloud Platform, Vertex AI, LangChain
-
-###Certifications: BCG Data Scientist Intern (Forage), Machine Learning A-Z (Udemy), Supervised ML (Coursera), Tableau (DataCamp), Oracle Professional in Generative AI
-
-###Professional Development: AWS ML and AI Scholar, Open Data Science Conference Participant
-
-
-## Education	 			        		
-- B.S., Data Science | Beloit College (_May 2025_)
+## Education
+- **B.S., Data Science - Beloit College (Expected May 2025)**
 
 ## Work Experience
 **AI Engineer Intern @ Radical AI (_Sept 2024 - Present_)**
