@@ -1,4 +1,4 @@
-# Prince Upadhyay - Data Scientist
+# Data Scientist
 
 Welcome to my GitHub.io page! Below you'll find a summary of my skills, education, and work experience. The portfolio is still in progress.
 
