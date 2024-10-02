@@ -1,10 +1,15 @@
 # Data Scientist
 
 ###Programming Languages: Python, SQL, R, Java, PowerShell
+
 ###Data Science & ML Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV
+
 ###Visualization Tools: Matplotlib, Seaborn, Tableau
+
 ###Cloud & Analytics Platforms: AWS, Azure ML, Google Cloud Platform, Vertex AI, LangChain
+
 ###Certifications: BCG Data Scientist Intern (Forage), Machine Learning A-Z (Udemy), Supervised ML (Coursera), Tableau (DataCamp), Oracle Professional in Generative AI
+
 ###Professional Development: AWS ML and AI Scholar, Open Data Science Conference Participant
 
 
