@@ -1,29 +1,30 @@
-# Prince U. - Data Scientist
+# Prince Upadhyay - Data Scientist
 
-Welcome to my GitHub.io page! Below you'll find a summary of my skills, education, and work experience.
+Welcome to my GitHub.io page! Below you'll find a summary of my skills, education, and work experience. The portfolio is still in progress.
 
 ## Skills
 
 ### Programming Languages
-- **Python, SQL, R, Java, PowerShell**
+- Python, SQL, R, Java, PowerShell**
 ### Data Science & ML Frameworks
-- **TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV**
+- TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV**
 ### Visualization Tools
-- **Matplotlib, Seaborn, Tableau**
+- Matplotlib, Seaborn, Tableau**
 ### Cloud & Analytics Platforms
-- **AWS, Azure ML, Google Cloud Platform, Vertex AI, LangChain**
+- AWS, Azure ML, Google Cloud Platform, Vertex AI, LangChain**
 ### Certifications
 - BCG Data Scientist Intern (Forage)
 - Machine Learning A-Z (Udemy)
 - Supervised ML (Coursera)
 - Tableau (DataCamp)
 - Oracle Professional in Generative AI
+  
 ### Professional Development
 - AWS ML and AI Scholar
 - Open Data Science Conference Participant
 
 ## Education
-- **B.S., Data Science - Beloit College (Expected May 2025)**
+- B.S., Data Science - Beloit College (Expected May 2025)**
 
 ## Work Experience
 **AI Engineer Intern @ Radical AI (_Sept 2024 - Present_)**
@@ -37,7 +38,7 @@ Welcome to my GitHub.io page! Below you'll find a summary of my skills, educatio
 
 ## Projects
 ### Machine Learning for Climate Analysis
-[Publication](in Progess)
+Publication (in Progress)
 
 Developed predictive models for climate image analysis using Time Series Spatio-Temporal data with TensorFlow and Keras. Implemented SOM, CNN, and RNN algorithms, achieving 84% prediction accuracy for severe climate events. Applied advanced image processing techniques with OpenCV, including data augmentation and edge detection methods.
 
