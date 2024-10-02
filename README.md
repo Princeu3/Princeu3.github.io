@@ -5,11 +5,11 @@ Welcome to my GitHub.io page! Below you'll find a summary of my skills, educatio
 ## Skills
 
 ### Programming Languages
-- Python, SQL, R, Java, PowerShell**
+- Python, SQL, R, Java, PowerShell
 ### Data Science & ML Frameworks
 - TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV**
 ### Visualization Tools
-- Matplotlib, Seaborn, Tableau**
+- Matplotlib, Seaborn, Tableau
 ### Cloud & Analytics Platforms
 - AWS, Azure ML, Google Cloud Platform, Vertex AI, LangChain**
 ### Certifications
